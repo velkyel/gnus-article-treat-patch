@@ -1,3 +1,11 @@
+
+;; Maintainer:
+;; Keywords: gnus
+;; Package-Version: 20190504.1000
+;; Package-X-Original-Version: 20190504.1000
+;; Version: 1.00
+;; Package-Requires: ((emacs "24"))
+
 ;; Gnus addon to beautify patch-like emails. This uses a "ft/" prefix for
 ;; everything to avoid clashing with anything upstream. That prefix can be
 ;; savely s,ft/,,'d - if this is to be submitted to the gnus developers.
