@@ -1,3 +1,4 @@
+;;; gnus-article-treat-patch.el --- gnus add-on    -*- lexical-binding: t -*-
 
 ;; Maintainer:
 ;; Keywords: gnus
